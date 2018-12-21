@@ -11,7 +11,7 @@ A Java based mass download tool. Useful for downloading multiple zip files at on
 
 
 **Usage**
-* java multi-dl.jar -i=examplelist.txt
+* java -jar multi-dl.jar -i=examplelist.txt
 
 ***
 
