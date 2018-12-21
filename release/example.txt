@@ -1,0 +1,4 @@
+http://link.to.file/thefile.zip
+http://link.to.file/thefile2.zip
+http://link.to.file/thefile3.zip
+http://link.to.file/thefile4.zip
